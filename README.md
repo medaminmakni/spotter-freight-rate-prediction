@@ -19,6 +19,8 @@ Predict `posted_rate` (the price in $ of a truck load) for 12,000 loads in Novâ€
 
 ## How to run
 
+Python 3.10+ (tested on Python 3.12).
+
 ```bash
 python -m pip install -r requirements.txt
 # copy Spotter's CSV files into data/ (see data/README.md)
