@@ -1,0 +1,9 @@
+# Spotter's assessment data is not redistributed: copy it into data/ (see data/README.md)
+data/*.csv
+scorer_results/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
