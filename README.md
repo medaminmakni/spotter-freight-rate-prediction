@@ -4,7 +4,7 @@ Predict `posted_rate` (the price in $ of a truck load) for 12,000 loads in Nov�
 
 **Result:** gradient boosting on price per mile, **MAE $40.9 (1.74%)** on the August fold and **$42.0 (1.80%)** on the Sep–Oct fold, against $175–193 (≈8%) for a simple baseline.
 
-📄 Full write-up: [`report/Spotter_Report_Mohamed_Amin_Makni.pdf`](report/Spotter_Report_Mohamed_Amin_Makni.pdf) · 🎥 Video walkthrough: [Loom link]
+📄 Full write-up: [`report/Spotter_Report_Mohamed_Amin_Makni.pdf`](report/Spotter_Report_Mohamed_Amin_Makni.pdf) · 🎥 Video walkthrough: [loom.com/share/479f999f835348f6b295c3be99688f9d](https://www.loom.com/share/479f999f835348f6b295c3be99688f9d)
 
 ## Repository
 
